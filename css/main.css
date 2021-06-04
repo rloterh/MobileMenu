@@ -20,8 +20,9 @@ hr {
 
 header {
    display: flex;
-  justify-content: space-between;
-align-items: start;
+   flex-direction: column;
+  /* justify-content: space-between;
+align-items: start; */
   padding: 15px;
   
    color: white;
@@ -29,8 +30,14 @@ align-items: start;
   height: 100vh;
 }
 
+.logo-menubars {
+  min-width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
 #desktop-nav, #desktop-nav ul {
-  display: none;
+  /* display: none; */
 }
 
 #logo {
