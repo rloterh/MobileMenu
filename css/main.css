@@ -19,12 +19,14 @@ hr {
 }
 
 header {
-  display: flex;
+   display: flex;
   justify-content: space-between;
-  align-items: center;
+align-items: start;
   padding: 15px;
+  
+   color: white;
   background-color: #3c3a39;
-  color: white;
+  height: 100vh;
 }
 
 #desktop-nav, #desktop-nav ul {
@@ -72,6 +74,7 @@ main {
   position: absolute;
   right: 0;
   bottom: 0;
+  /* height: 800px; */
 }
 
 .desktop-icon {
@@ -417,6 +420,16 @@ textarea {
 }
 
 @media all and (min-width: 720px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #3c3a39;
+    color: white;
+    height: auto;
+  }
+
   .top-social {
     flex-direction: column;
     position: absolute;
@@ -446,6 +459,8 @@ textarea {
 
   #desktop-nav {
     display: block;
+    z-index: 10;
+    
   }
 
   #desktop-nav ul {
