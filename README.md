@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](/https://happy-jepsen-3ea201.netlify.app/)
+[Live Demo Link](https://happy-jepsen-3ea201.netlify.app/)
 
 
 
