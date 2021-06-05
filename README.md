@@ -6,7 +6,7 @@
 
 > The rubric of this project is to demonstrates the use use of semantic html, css and javascript to build a mobile menu of a portfolio website. The base project was and project specification is an attribution of [Microverse](https://www.microverse.org/).
 
-![img]()
+![img](screenshot.png)
 
 
 ## Built With
@@ -19,7 +19,7 @@
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](/https://happy-jepsen-3ea201.netlify.app/)
 
 
 
