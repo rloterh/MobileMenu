@@ -1,5 +1,3 @@
-# curriculum-cr-training-
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # MobileMenu - (Curriculum Training)
